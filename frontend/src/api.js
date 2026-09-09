@@ -2,8 +2,8 @@
 // Port 5000 = scam message classifier (app.py)
 // Port 5001 = currency real/fake detector (currency_app.py)
 
-const SCAM_API_BASE = "http://127.0.0.1:5000";
-const CURRENCY_API_BASE = "http://127.0.0.1:5001";
+const SCAM_API_BASE = "https://fraudshield-ai-7wj9.onrender.com";
+const CURRENCY_API_BASE = "https://fraudshield-ai-1-tyot.onrender.com";
 
 /**
  * Confirmed from your test in VS Code:
