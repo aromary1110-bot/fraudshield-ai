@@ -1,0 +1,16 @@
+{
+  "scam_samples": [
+    "This is CBI officer speaking. There is a money laundering case registered under your Aadhaar number. Do not disconnect this video call or you will be arrested immediately.",
+    "Your parcel has been seized by Customs Department containing illegal narcotics. To avoid arrest warrant, you must pay a refundable deposit immediately and maintain secrecy from your family.",
+    "This is an automated notice from TRAI. Your mobile number will be blocked in 2 hours due to illegal activity. Press 9 to connect to a cyber crime officer.",
+    "RBI verification required: Share your UPI PIN and OTP immediately to prevent your bank account from being frozen under a Supreme Court order.",
+    "Congratulations! You have won Rs 25,00,000 in KBC lottery. To claim your prize, pay processing fee via UPI to this number immediately."
+  ],
+  "normal_samples": [
+    "Hey, are we still meeting for lunch tomorrow at 1pm?",
+    "Your Amazon order #402-1234567 has been shipped and will arrive by Friday.",
+    "Reminder: Your electricity bill of Rs 1,240 is due on 25th July. Pay via the official MSEB app.",
+    "Mom, I'll be home late today, don't wait for dinner.",
+    "Your OTP for login is 482913. Do not share this with anyone."
+  ]
+}
